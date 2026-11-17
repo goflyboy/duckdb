@@ -35,7 +35,7 @@ build/reldebug/test/unittest "*"
 
 ### 使用 LLDB 调试
 
-在使用 LLDB 调查 DuckDB 代码或失败的 sqllogictest，或修改 LLDB 辅助脚本之前，请阅读 [scripts/lldb/AGENTS.md](scripts/lldb/AGENTS.md)。其中涵盖了能感知 SQL 的断点、智能指针和数组的打印，以及如何步过包装检查。
+在使用 LLDB 调查 DuckDB 代码或失败的 sqllogictest，或修改 LLDB 辅助脚本之前，请阅读 [scripts/lldb/AGENTS.md](scripts/lldb/AGENTS.zh.md)。其中涵盖了能感知 SQL 的断点、智能指针和数组的打印，以及如何步过包装检查。
 
 ### 限制查询时间
 

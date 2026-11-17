@@ -2,7 +2,7 @@
 
 ## 行为准则
 
-本项目及其所有参与者均受[行为准则](CODE_OF_CONDUCT.md)约束。参与即表示您应当遵守该准则。请将不可接受的行为报告至 [quack@duckdb.org](mailto:quack@duckdb.org)。
+本项目及其所有参与者均受[行为准则](CODE_OF_CONDUCT.zh.md)约束。参与即表示您应当遵守该准则。请将不可接受的行为报告至 [quack@duckdb.org](mailto:quack@duckdb.org)。
 
 ## **您发现了缺陷（bug）吗？**
 

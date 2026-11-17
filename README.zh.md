@@ -52,9 +52,9 @@ DuckDB 拥有模块化的[扩展机制](https://duckdb.org/docs/current/extensio
 
 ## 开发
 
-进行开发时，DuckDB 需要 [CMake](https://cmake.org)、Python 3 以及兼容 `C++17` 的编译器。在根目录下运行 `make` 即可编译源码。开发时，可使用 `make debug` 构建未优化的调试版本。在做出修改后，您应运行 `make unit` 和 `make allunit` 来验证您的版本工作正常。如需测试性能，可以运行 `BUILD_BENCHMARK=1 BUILD_TPCH=1 make`，然后在根目录下执行 `./build/release/benchmark/benchmark_runner` 来运行若干标准基准测试。基准测试的详细信息见我们的[基准测试指南](benchmark/README.md)。
+进行开发时，DuckDB 需要 [CMake](https://cmake.org)、Python 3 以及兼容 `C++17` 的编译器。在根目录下运行 `make` 即可编译源码。开发时，可使用 `make debug` 构建未优化的调试版本。在做出修改后，您应运行 `make unit` 和 `make allunit` 来验证您的版本工作正常。如需测试性能，可以运行 `BUILD_BENCHMARK=1 BUILD_TPCH=1 make`，然后在根目录下执行 `./build/release/benchmark/benchmark_runner` 来运行若干标准基准测试。基准测试的详细信息见我们的[基准测试指南](benchmark/README.zh.md)。
 
-另请参阅我们的[构建指南](https://duckdb.org/docs/current/dev/building/overview)和[贡献指南](CONTRIBUTING.md)。
+另请参阅我们的[构建指南](https://duckdb.org/docs/current/dev/building/overview)和[贡献指南](CONTRIBUTING.zh.md)。
 
 ## 支持
 
